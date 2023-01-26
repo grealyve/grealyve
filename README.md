@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @grealyve
 - Interested in CyberSecurity
-- Learning Python and Java
+- Learning Python and Go
