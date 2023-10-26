@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Bash Scripting&Linux<br>🌱 I’m currently learning Web Pentesting, GoLang<br>💬 Ask me about web security<br>⚡ Fun fact I'm also electric guitar player
+🔭 I’m currently working on Golang, Bash Scripting&Linux<br>🌱 I’m currently learning Web Pentesting <br>💬 Ask me about web security<br>⚡ Fun fact I'm also electric guitar player
 
 
 ## 🌐 Socials:
