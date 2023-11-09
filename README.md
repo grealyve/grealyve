@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Golang, Bash Scripting and Linux<br>🌱 I’m currently learning Java, Spring Boot <br>💬 Ask me about web application security<br>⚡ Fun fact I'm also electric guitar player
+🔭 I’m currently working on Spring Boot, Golang and Linux<br>🌱 I’m currently learning Java, Spring Boot <br>💬 Ask me about web application security<br>⚡ Fun fact I'm also electric guitar player
 
 
 ## 🌐 Socials:
